@@ -1,0 +1,61 @@
+{
+  "compilerOptions": {
+    "target": "ES6" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */,
+    "module": "ES6" /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */,
+    "lib": [
+      "dom",
+      "esnext",
+      "es6"
+    ] /* Specify library files to be included in the compilation. */,
+    "allowJs": true /* Allow javascript files to be compiled. */,
+    "jsx": "react" /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */,
+    "sourceMap": true /* Generates corresponding '.map' file. */,
+    "outDir": "./dist" /* Redirect output structure to the directory. */,
+    "strict": true /* Enable all strict type-checking options. */,
+    "allowSyntheticDefaultImports": true /* Allow default imports from modules with no default export. This does not affect code emit, just typechecking. */,
+    "esModuleInterop": false /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
+    "skipLibCheck": true /* Skip type checking of declaration files. */,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
+    "moduleResolution": "node16",
+    "baseUrl": ".",
+    "paths": {
+      "@/types/*": [
+        "./src/types/*"
+      ],
+      "@/utils/*": [
+        "./src/utils/*"
+      ],
+      "@/hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@/context/*": [
+        "./src/context/*"
+      ],
+      "@/templates/*": [
+        "./src/comp.common/templates/*"
+      ],
+      "@/components/*": [
+        "./src/comp.common/*",
+      ],
+      "@/constants/*": [
+        "./src/constants/*",
+      ],
+      "@/store/*": [
+        "./src/redux.store/*",
+        "./src/zustand.store/*",
+      ],
+      "@/modals/*": [
+        "./src/shared/Modals/*",
+      ],
+      "@/icons/*": [
+        "./src/icons/*",
+      ],
+      "@/images/*": [
+        "./assets/images/*",
+      ],
+    }
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

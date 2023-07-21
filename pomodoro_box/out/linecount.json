@@ -1,0 +1,1145 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Skillbox.Projs\\pomodoro\\react-ssr",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2023-06-01 14:50:38",
+            "filesum": 188,
+            "codesum": 24839,
+            "commentsum": 2279,
+            "blanksum": 2189,
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": ".eslintrc.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 10,
+                    "code": 60,
+                    "comment": 2,
+                    "filename": "bin\\dev.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "cfg\\webpack.client.config.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "cfg\\webpack.server.config.js"
+                },
+                {
+                    "blank": 1273,
+                    "code": 1468,
+                    "comment": 1716,
+                    "filename": "dist\\client\\client.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.065e8b7dd92be731cac6.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.065e8b7dd92be731cac6.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.17003eafa16d869e5767.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.17003eafa16d869e5767.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.5c602cd92df1c7221b3c.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.5c602cd92df1c7221b3c.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.5d519526f01d386619a2.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.5d519526f01d386619a2.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.688fe5f1c47ebb328da6.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.688fe5f1c47ebb328da6.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.7c9d7581d9e2947270d2.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.7c9d7581d9e2947270d2.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.9375403ea202ed441b35.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.9375403ea202ed441b35.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.9b45be650be110ac7b5e.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.9b45be650be110ac7b5e.hot-update.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 16,
+                    "filename": "dist\\client\\main.a36338ef95bb7002be7b.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.a36338ef95bb7002be7b.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.b4495a7d47b0158681e7.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.b4495a7d47b0158681e7.hot-update.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 16,
+                    "filename": "dist\\client\\main.c7a50704da2a4e5e0eb0.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.c7a50704da2a4e5e0eb0.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.de35029a6618c9969933.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.de35029a6618c9969933.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.e997ebe2c28e4aca197f.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.e997ebe2c28e4aca197f.hot-update.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 18,
+                    "filename": "dist\\client\\main.eea6b6bd7212b94170ea.hot-update.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist\\client\\main.eea6b6bd7212b94170ea.hot-update.json"
+                },
+                {
+                    "blank": 263,
+                    "code": 265,
+                    "comment": 307,
+                    "filename": "dist\\server\\server.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "jest.config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19228,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "package.linux.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "react-ssr.code-workspace"
+                },
+                {
+                    "blank": 7,
+                    "code": 66,
+                    "comment": 0,
+                    "filename": "src\\App.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\AppWrapper.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\client\\index.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Break\\break.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Break\\index.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\CommentsKeeper.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\DropdownMenu\\dropdownmenu.css"
+                },
+                {
+                    "blank": 27,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\DropdownMenu\\index.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\EmptyComponent.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\HorizTable.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Icon\\icon.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Icon\\index.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\IconButton.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\ImageWithDefaultSrc\\index.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\ListComponent.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\ModalPortal.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\templates\\IMenuItemTemplate.ts"
+                },
+                {
+                    "blank": 9,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\templates\\ImgStrItemTemplate.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\templates\\StringItemTemplate.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Text\\index.tsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\comp.common\\Text\\text.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\constants\\domElements.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\constants\\redditApiUrls.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\constants\\routePaths.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\context\\authorContext.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\context\\commentItemContext.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\context\\commentsContext.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\context\\ddMenuContext.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\context\\userContext.tsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\hooks\\useAuthorData.ts"
+                },
+                {
+                    "blank": 7,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "src\\hooks\\useCommentsData.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\hooks\\useOutsideClick.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\hooks\\useUserData.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\AnonIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\CommentIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\ComplainIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\HideIcon.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\icons\\icons.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\icons\\index.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\icons\\MuteIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\icons\\ReportIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\SaveIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\icons\\ShareIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\icons\\ThreeDotsIcon.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\icons\\TransparencyIcon.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "src\\main.global.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\actions.ts"
+                },
+                {
+                    "blank": 6,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\loadPostsChunk.ts"
+                },
+                {
+                    "blank": 17,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\postsSlice.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\rootStore.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\saveToken.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\storeStatus.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\redux.store\\tokenSlice.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\server\\indexTemplate.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 1,
+                    "filename": "src\\server\\server.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\card.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Card.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\Actions\\actions.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\Actions\\index.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\CommentsNumber\\commentsnumber.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\CommentsNumber\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\controls.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\Controls.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\KarmaCounter\\index.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Controls\\KarmaCounter\\karmacounter.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\index.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Preview\\index.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\Preview\\preview.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\ActionKindEnum.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\HorizMenuTemplate.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\index.ts"
+                },
+                {
+                    "blank": 21,
+                    "code": 122,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\menu.css"
+                },
+                {
+                    "blank": 10,
+                    "code": 69,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\Menu.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\MenuButton.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\SeparatorItemTemplate.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 1,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Menu\\VertMenuTemplate.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 38,
+                    "comment": 1,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\MetaData\\index.tsx"
+                },
+                {
+                    "blank": 10,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\MetaData\\metadata.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\textcontent.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\TextContent.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Title\\index.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\Card\\TextContent\\Title\\title.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\cardslist.css"
+                },
+                {
+                    "blank": 11,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\CardsListComponent.tsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\CardsListContainer.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\index.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\shared\\CardsList\\LoadMoreButton.tsx"
+                },
+                {
+                    "blank": 10,
+                    "code": 56,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\AuthorInfo\\authorinfo.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 1,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\AuthorInfo\\index.tsx"
+                },
+                {
+                    "blank": 13,
+                    "code": 89,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\commentform.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\index.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\ReplyButton.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\ReplyForm.tsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 95,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentForm\\ReplyInput.tsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\CommentsTreeNode.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\commenttree.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\shared\\CommentsTree\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\shared\\Content\\content.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\shared\\Content\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\header.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\Header.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\index.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SearchBlock\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SearchBlock\\searchblock.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SearchBlock\\UserBlock\\index.tsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SearchBlock\\UserBlock\\userblock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SortBlock\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\SortBlock\\sortblock.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\ThreadTitle\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\shared\\Header\\ThreadTitle\\threadtitle.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\shared\\Layout\\index.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\shared\\Layout\\layout.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\MessageModal\\index.tsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\MessageModal\\messagemodal.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\card.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\Card.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\index.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 39,
+                    "comment": 1,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\MetaData\\index.tsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\MetaData\\metadata.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\textcontent.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\TextContent.tsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\Title\\index.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\Card\\TextContent\\Title\\title.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\index.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\shared\\Modals\\PostsModal\\postsmodal.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\shared\\NoMatch\\index.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\shared\\NoMatch\\nomatch.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\types\\Comment.ts"
+                },
+                {
+                    "blank": 10,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\types\\commonTypes.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src\\types\\Post.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src\\types\\types.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\componentIdToDomId.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\dateDiffInHours.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\eventPreventDefault.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\eventStopPropagation.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\findIndexByKey.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\findItemByKey.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\generateComponentId.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\hoursPassedStr.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\prepareRedditImgLink.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\utils\\js\\stringUnescape.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\zustand.store\\replyFormStore.ts"
+                },
+                {
+                    "blank": 7,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "utests\\example.test.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "webpack.config.js"
+                }
+            ]
+        }
+    ]
+}

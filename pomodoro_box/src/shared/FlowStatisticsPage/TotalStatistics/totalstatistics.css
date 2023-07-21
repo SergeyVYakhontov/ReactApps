@@ -1,0 +1,55 @@
+.total_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+.totalcapt_div{
+  padding-bottom: 20px;
+}
+
+.focustime_div {
+  background-color: #b2edcb;
+  padding: 20px 0px 20px 0px;
+}
+
+.pausetime_div{
+  background-color: #bcdef2;
+  padding: 20px 0px 20px 0px;
+}
+
+.stoptime_div{
+  background-color: #F5DEB3;
+  padding: 20px 0px 20px 0px;
+}
+
+.focustime_caption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+.pausetime_caption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+.stoptime_caption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}

@@ -1,0 +1,17 @@
+.flowchart_div {
+  width: 100%;
+  height: 100%;
+  overflow-x: scroll;
+}
+
+.caption_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.weekselect_div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

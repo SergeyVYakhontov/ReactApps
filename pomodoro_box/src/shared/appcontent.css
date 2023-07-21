@@ -1,0 +1,25 @@
+.app_div {
+  width: 100%;
+}
+
+.appcaption_div {
+  background-color: lightgrey;
+  padding: 10px 30px 10px 30px;
+  margin: 0px 15px 0px 15px;
+}
+
+.appcontent_div {
+  background-color: white;
+  padding: 10px 0px 10px 0px;
+}
+
+.pombox_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pombox_h5 {
+  margin: 0px;
+  padding: 0px;
+}

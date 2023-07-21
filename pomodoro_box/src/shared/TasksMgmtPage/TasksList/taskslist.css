@@ -1,0 +1,21 @@
+.taskslist_container {
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.taskslist_header {
+  background-color: #E59866;
+  color: white;
+}
+
+.addbutton {
+  margin: 10px 0px;
+}
+
+.selected_row {
+  background-color: lightgray;
+}
+
+.tablecell {
+  vertical-align: middle !important;
+}
